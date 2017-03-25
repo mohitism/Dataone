@@ -18,7 +18,7 @@ temp=input()
 while temp!="":
 
     que=temp.split(" ")
-    mini=10000.0
+    mini=100000.0
     store=-1
     for i in target_dict:
             ans=0.00
